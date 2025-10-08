@@ -11,8 +11,8 @@
   <project path="frameworks/libs/systemui" name="P-404/android_frameworks_libs_systemui" revision="rippa" />
   <project path="frameworks/base" name="android_frameworks_base" remote="lemonage" />
   <project path="lineage-sdk" name="android_lineage-sdk" remote="lemonage" />
-  <project path="packages/apps/404Launcher" name="android_packages_apps_404Launcher" remote="lemonage" revision="rippa" />
   <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="lemonage" />
+  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="lemonage" revision="android_11" />
   <project path="packages/apps/LineageParts" name="android_packages_apps_LineageParts" remote="lemonage" />
   <project path="packages/apps/Recorder" name="android_packages_apps_Recorder" remote="lemonage" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="lemonage" />
